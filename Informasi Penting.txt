@@ -1,0 +1,1 @@
+Jika terdapat error saat load fungsi maka silakan untuk di refresh terlebih dahulu agar bisa jalan. Karena saya baru pertama kali menggunakan fitur turbolink sehingga masih belum tahu cara integrasinya dengan baik dan benar.
